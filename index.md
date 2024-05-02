@@ -1,6 +1,9 @@
+---
 layout: page
 title: "Home Page"
 permalink: /index
+---
+
 
 # Olivia Robles
 
