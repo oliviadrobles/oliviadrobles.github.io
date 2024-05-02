@@ -4,7 +4,6 @@ title: "Home Page"
 permalink: /index
 ---
 
-
 # Olivia Robles
 
 Hi there, 
