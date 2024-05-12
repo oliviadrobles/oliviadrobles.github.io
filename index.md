@@ -16,14 +16,10 @@ Descubre mi viaje, mis clases y cómo puedes ser parte de esta experiencia trans
 
 
 
-
-
-
-
-
-
-
 [Sobre mí](about) 
 
-[Clases](Clases)
+[Clases](clases)
 
+[Galería](galeria)
+
+[Contacto](contrataciones)
