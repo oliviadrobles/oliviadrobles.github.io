@@ -6,3 +6,5 @@ Con una licenciatura en cultura física, profundicé en el estudio del cuerpo hu
 
 
 Mi enfoque en la enseñanza es *holístico*, buscando siempre el equilibrio entre técnica y expresión. Creo firmemente que la danza es una forma de vida, una meditación en movimiento que nos permite descubrir y celebrar nuestra esencia más profunda.
+
+[Clases](clases)
