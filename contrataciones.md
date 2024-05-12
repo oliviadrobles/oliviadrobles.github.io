@@ -1,3 +1,13 @@
+[Inicio](index)
+
+[Sobre mí](about) 
+
+[Clases](clases)
+
+[Galería](galeria)
+
+[Contacto](contrataciones)
+
 # Contrataciones
 
 ¿Buscas una actuación que eleve tu evento a un plano extraordinario? Como artista, ofrezco espectáculos personalizados que se adaptan a la visión de tu evento. 
@@ -12,8 +22,3 @@ Estoy aquí para responder tus preguntas y ayudarte a descubrir cómo la danza p
 
 [Instagram](https://www.instagram.com/olivia_robles_/)
 
-
-
-
-
-[Inicio](index)
