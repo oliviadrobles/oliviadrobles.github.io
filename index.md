@@ -15,4 +15,15 @@ Durante más de una década, he dedicado mi vida a explorar y enseñar esta fusi
 Descubre mi viaje, mis clases y cómo puedes ser parte de esta experiencia transformadora.
 
 
-[Sobre mí](about)
+
+
+
+
+
+
+
+
+[Sobre mí](about) 
+
+[Clases](Clases)
+
