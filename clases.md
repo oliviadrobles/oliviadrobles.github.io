@@ -7,3 +7,11 @@ Mis lecciones están cuidadosamente estructuradas para proporcionar una base só
 Además, ofrezco talleres especializados que profundizan en aspectos específicos de la danza, como el uso de velos, abanicos, alas y otros accesorios que añaden una capa de complejidad y belleza a nuestras coreografías. También organizo sesiones de improvisación donde podrás liberar tu creatividad y fluir con la música.
 
 Mis clases son más que lecciones de danza; son una comunidad donde la pasión por el arte nos une y nos impulsa a crecer juntos. Te espero para compartir la magia del movimiento y la alegría de la danza.
+
+[Inicio](index)
+
+[Sobre mí](about)
+
+[Galería](galeria)
+
+[Contacto](contrataciones)
