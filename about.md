@@ -12,7 +12,9 @@ Mi enfoque en la enseñanza es **holístico**, buscando siempre el equilibrio en
 
 
 
+
 Pruebaaaaaaaaaaaaaaaaa
+
 [Clases](clases)
 
 [Galería](galeria)
