@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "clases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "clases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "about.md",
+                "file": "clases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "about.md"
+                "file": "clases.md"
               }
             }
           }
@@ -148,7 +148,7 @@
   },
   "active": "5ea3d450db49b0dc",
   "lastOpenFiles": [
-    "clases.md",
-    "about.md"
+    "about.md",
+    "clases.md"
   ]
 }
