@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clases.md",
+                "file": "contrataciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "clases.md",
+                "file": "contrataciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "clases.md",
+                "file": "contrataciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "clases.md"
+                "file": "contrataciones.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "5ea3d450db49b0dc",
   "lastOpenFiles": [
+    "galeria.md",
+    "clases.md",
     "about.md",
     "index.md",
-    "contrataciones.md",
-    "galeria.md",
-    "clases.md"
+    "contrataciones.md"
   ]
 }
